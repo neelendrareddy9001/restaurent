@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <div className='app_header_app app_wraper section_padding' id='home'>
         <div className='app_wrapper_info'>
-            <SubHeading />
+            <SubHeading title="Chase the new flavour" />
         </div>
         <div className='app_wrapper_img'>
 
@@ -18,4 +18,4 @@ const Header = () => {
   )
 }
 
-export default Header
+export default Header;
