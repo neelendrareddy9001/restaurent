@@ -8,6 +8,7 @@ import './App.css';
 
 const App = () => {
   return (
+    <>
     <div>
         <Navbar />
         <Header />
@@ -20,6 +21,7 @@ const App = () => {
         <FindUs />
         <Footer /> */}
     </div>
+    </>
   )
 }
 
