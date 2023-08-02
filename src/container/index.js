@@ -10,6 +10,7 @@ import Menu from './Menu/Menu';
 
 export {
   AboutUs,
+  Menu,
   Chef,
   FindUs,
   Footer,
@@ -17,5 +18,4 @@ export {
   Header,
   Intro,
   Laurels,
-  Menu,
 };
